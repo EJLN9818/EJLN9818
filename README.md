@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Lopez
 - 👀 I’m interested in Python, big data, IA, blockchain and cryptocurrency
 - 🌱 I’m currently learning IA and big data.
-- 💞️ I’m looking to collaborate on project for blockchain in ETH.
+- 💞️ I’m looking to collaborate any project.
 - 📫 How to reach me emmanuel9818@gmail.com
 
 <!---
